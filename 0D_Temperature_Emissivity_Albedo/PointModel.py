@@ -1,3 +1,6 @@
+#Zhyar_Nasruddin
+#26.06.2025
+
 
 import numpy as np
 import matplotlib.pyplot as plt
