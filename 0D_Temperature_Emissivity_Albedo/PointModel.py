@@ -65,3 +65,4 @@ plt.title("how the temperature of earth's surface changes for different cloud co
 plt.xlabel("cloud cover")
 plt.ylabel("Temperature of the surface of the earth in degree celcuis")
 plt.show()
+
